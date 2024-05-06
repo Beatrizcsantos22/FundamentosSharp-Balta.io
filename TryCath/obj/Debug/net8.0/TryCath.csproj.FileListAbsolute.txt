@@ -1,0 +1,14 @@
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\TryCath\bin\Debug\net8.0\TryCath.exe
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\TryCath\bin\Debug\net8.0\TryCath.deps.json
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\TryCath\bin\Debug\net8.0\TryCath.runtimeconfig.json
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\TryCath\bin\Debug\net8.0\TryCath.dll
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\TryCath\bin\Debug\net8.0\TryCath.pdb
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\TryCath\obj\Debug\net8.0\TryCath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\TryCath\obj\Debug\net8.0\TryCath.AssemblyInfoInputs.cache
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\TryCath\obj\Debug\net8.0\TryCath.AssemblyInfo.cs
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\TryCath\obj\Debug\net8.0\TryCath.csproj.CoreCompileInputs.cache
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\TryCath\obj\Debug\net8.0\TryCath.dll
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\TryCath\obj\Debug\net8.0\refint\TryCath.dll
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\TryCath\obj\Debug\net8.0\TryCath.pdb
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\TryCath\obj\Debug\net8.0\TryCath.genruntimeconfig.cache
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\TryCath\obj\Debug\net8.0\ref\TryCath.dll

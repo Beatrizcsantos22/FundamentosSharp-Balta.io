@@ -1,0 +1,14 @@
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Comparandostrings\bin\Debug\net8.0\Comparandostrings.exe
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Comparandostrings\bin\Debug\net8.0\Comparandostrings.deps.json
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Comparandostrings\bin\Debug\net8.0\Comparandostrings.runtimeconfig.json
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Comparandostrings\bin\Debug\net8.0\Comparandostrings.dll
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Comparandostrings\bin\Debug\net8.0\Comparandostrings.pdb
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Comparandostrings\obj\Debug\net8.0\Comparandostrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Comparandostrings\obj\Debug\net8.0\Comparandostrings.AssemblyInfoInputs.cache
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Comparandostrings\obj\Debug\net8.0\Comparandostrings.AssemblyInfo.cs
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Comparandostrings\obj\Debug\net8.0\Comparandostrings.csproj.CoreCompileInputs.cache
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Comparandostrings\obj\Debug\net8.0\Comparandostrings.dll
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Comparandostrings\obj\Debug\net8.0\refint\Comparandostrings.dll
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Comparandostrings\obj\Debug\net8.0\Comparandostrings.pdb
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Comparandostrings\obj\Debug\net8.0\Comparandostrings.genruntimeconfig.cache
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Comparandostrings\obj\Debug\net8.0\ref\Comparandostrings.dll

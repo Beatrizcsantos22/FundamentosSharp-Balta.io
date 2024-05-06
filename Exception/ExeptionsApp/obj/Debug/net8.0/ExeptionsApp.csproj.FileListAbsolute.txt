@@ -1,0 +1,14 @@
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\ExeptionsApp\bin\Debug\net8.0\ExeptionsApp.exe
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\ExeptionsApp\bin\Debug\net8.0\ExeptionsApp.deps.json
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\ExeptionsApp\bin\Debug\net8.0\ExeptionsApp.runtimeconfig.json
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\ExeptionsApp\bin\Debug\net8.0\ExeptionsApp.dll
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\ExeptionsApp\bin\Debug\net8.0\ExeptionsApp.pdb
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\ExeptionsApp\obj\Debug\net8.0\ExeptionsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\ExeptionsApp\obj\Debug\net8.0\ExeptionsApp.AssemblyInfoInputs.cache
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\ExeptionsApp\obj\Debug\net8.0\ExeptionsApp.AssemblyInfo.cs
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\ExeptionsApp\obj\Debug\net8.0\ExeptionsApp.csproj.CoreCompileInputs.cache
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\ExeptionsApp\obj\Debug\net8.0\ExeptionsApp.dll
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\ExeptionsApp\obj\Debug\net8.0\refint\ExeptionsApp.dll
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\ExeptionsApp\obj\Debug\net8.0\ExeptionsApp.pdb
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\ExeptionsApp\obj\Debug\net8.0\ExeptionsApp.genruntimeconfig.cache
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\ExeptionsApp\obj\Debug\net8.0\ref\ExeptionsApp.dll

@@ -1,0 +1,14 @@
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Moedas\TiposMoedas\bin\Debug\net8.0\TiposMoedas.exe
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Moedas\TiposMoedas\bin\Debug\net8.0\TiposMoedas.deps.json
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Moedas\TiposMoedas\bin\Debug\net8.0\TiposMoedas.runtimeconfig.json
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Moedas\TiposMoedas\bin\Debug\net8.0\TiposMoedas.dll
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Moedas\TiposMoedas\bin\Debug\net8.0\TiposMoedas.pdb
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Moedas\TiposMoedas\obj\Debug\net8.0\TiposMoedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Moedas\TiposMoedas\obj\Debug\net8.0\TiposMoedas.AssemblyInfoInputs.cache
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Moedas\TiposMoedas\obj\Debug\net8.0\TiposMoedas.AssemblyInfo.cs
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Moedas\TiposMoedas\obj\Debug\net8.0\TiposMoedas.csproj.CoreCompileInputs.cache
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Moedas\TiposMoedas\obj\Debug\net8.0\TiposMoedas.dll
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Moedas\TiposMoedas\obj\Debug\net8.0\refint\TiposMoedas.dll
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Moedas\TiposMoedas\obj\Debug\net8.0\TiposMoedas.pdb
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Moedas\TiposMoedas\obj\Debug\net8.0\TiposMoedas.genruntimeconfig.cache
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Moedas\TiposMoedas\obj\Debug\net8.0\ref\TiposMoedas.dll

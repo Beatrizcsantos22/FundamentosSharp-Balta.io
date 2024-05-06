@@ -1,0 +1,14 @@
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\StringIndices\obj\Debug\net8.0\StringIndices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\StringIndices\obj\Debug\net8.0\StringIndices.AssemblyInfoInputs.cache
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\StringIndices\obj\Debug\net8.0\StringIndices.AssemblyInfo.cs
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\StringIndices\obj\Debug\net8.0\StringIndices.csproj.CoreCompileInputs.cache
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\StringIndices\bin\Debug\net8.0\StringIndices.exe
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\StringIndices\bin\Debug\net8.0\StringIndices.deps.json
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\StringIndices\bin\Debug\net8.0\StringIndices.runtimeconfig.json
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\StringIndices\bin\Debug\net8.0\StringIndices.dll
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\StringIndices\bin\Debug\net8.0\StringIndices.pdb
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\StringIndices\obj\Debug\net8.0\StringIndices.dll
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\StringIndices\obj\Debug\net8.0\refint\StringIndices.dll
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\StringIndices\obj\Debug\net8.0\StringIndices.pdb
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\StringIndices\obj\Debug\net8.0\StringIndices.genruntimeconfig.cache
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\StringIndices\obj\Debug\net8.0\ref\StringIndices.dll

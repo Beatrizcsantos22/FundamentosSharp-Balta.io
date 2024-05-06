@@ -1,0 +1,14 @@
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\ProjetoEditor.App\obj\Debug\net8.0\ProjetoEditor.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\ProjetoEditor.App\obj\Debug\net8.0\ProjetoEditor.App.AssemblyInfoInputs.cache
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\ProjetoEditor.App\obj\Debug\net8.0\ProjetoEditor.App.AssemblyInfo.cs
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\ProjetoEditor.App\obj\Debug\net8.0\ProjetoEditor.App.csproj.CoreCompileInputs.cache
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\ProjetoEditor.App\bin\Debug\net8.0\ProjetoEditor.App.exe
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\ProjetoEditor.App\bin\Debug\net8.0\ProjetoEditor.App.deps.json
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\ProjetoEditor.App\bin\Debug\net8.0\ProjetoEditor.App.runtimeconfig.json
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\ProjetoEditor.App\bin\Debug\net8.0\ProjetoEditor.App.dll
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\ProjetoEditor.App\bin\Debug\net8.0\ProjetoEditor.App.pdb
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\ProjetoEditor.App\obj\Debug\net8.0\ProjetoEditor.App.dll
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\ProjetoEditor.App\obj\Debug\net8.0\refint\ProjetoEditor.App.dll
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\ProjetoEditor.App\obj\Debug\net8.0\ProjetoEditor.App.pdb
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\ProjetoEditor.App\obj\Debug\net8.0\ProjetoEditor.App.genruntimeconfig.cache
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\ProjetoEditor.App\obj\Debug\net8.0\ref\ProjetoEditor.App.dll

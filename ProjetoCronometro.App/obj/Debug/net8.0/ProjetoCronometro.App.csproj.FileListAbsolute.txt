@@ -1,0 +1,14 @@
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\ProjetoCronometro.App\bin\Debug\net8.0\ProjetoCronometro.App.exe
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\ProjetoCronometro.App\bin\Debug\net8.0\ProjetoCronometro.App.deps.json
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\ProjetoCronometro.App\bin\Debug\net8.0\ProjetoCronometro.App.runtimeconfig.json
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\ProjetoCronometro.App\bin\Debug\net8.0\ProjetoCronometro.App.dll
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\ProjetoCronometro.App\bin\Debug\net8.0\ProjetoCronometro.App.pdb
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\ProjetoCronometro.App\obj\Debug\net8.0\ProjetoCronometro.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\ProjetoCronometro.App\obj\Debug\net8.0\ProjetoCronometro.App.AssemblyInfoInputs.cache
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\ProjetoCronometro.App\obj\Debug\net8.0\ProjetoCronometro.App.AssemblyInfo.cs
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\ProjetoCronometro.App\obj\Debug\net8.0\ProjetoCronometro.App.csproj.CoreCompileInputs.cache
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\ProjetoCronometro.App\obj\Debug\net8.0\ProjetoCronometro.App.dll
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\ProjetoCronometro.App\obj\Debug\net8.0\refint\ProjetoCronometro.App.dll
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\ProjetoCronometro.App\obj\Debug\net8.0\ProjetoCronometro.App.pdb
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\ProjetoCronometro.App\obj\Debug\net8.0\ProjetoCronometro.App.genruntimeconfig.cache
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\ProjetoCronometro.App\obj\Debug\net8.0\ref\ProjetoCronometro.App.dll

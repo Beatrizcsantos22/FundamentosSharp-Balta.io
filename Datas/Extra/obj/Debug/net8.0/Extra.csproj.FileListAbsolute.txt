@@ -1,0 +1,14 @@
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Datas\Extra\bin\Debug\net8.0\Extra.exe
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Datas\Extra\bin\Debug\net8.0\Extra.deps.json
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Datas\Extra\bin\Debug\net8.0\Extra.runtimeconfig.json
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Datas\Extra\bin\Debug\net8.0\Extra.dll
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Datas\Extra\bin\Debug\net8.0\Extra.pdb
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Datas\Extra\obj\Debug\net8.0\Extra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Datas\Extra\obj\Debug\net8.0\Extra.AssemblyInfoInputs.cache
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Datas\Extra\obj\Debug\net8.0\Extra.AssemblyInfo.cs
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Datas\Extra\obj\Debug\net8.0\Extra.csproj.CoreCompileInputs.cache
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Datas\Extra\obj\Debug\net8.0\Extra.dll
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Datas\Extra\obj\Debug\net8.0\refint\Extra.dll
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Datas\Extra\obj\Debug\net8.0\Extra.pdb
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Datas\Extra\obj\Debug\net8.0\Extra.genruntimeconfig.cache
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Datas\Extra\obj\Debug\net8.0\ref\Extra.dll

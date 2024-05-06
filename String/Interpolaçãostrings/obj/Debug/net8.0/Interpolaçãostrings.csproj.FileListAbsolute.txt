@@ -1,0 +1,14 @@
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\String\Interpolaçãostrings\obj\Debug\net8.0\Interpolaçãostrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\String\Interpolaçãostrings\obj\Debug\net8.0\Interpolaçãostrings.AssemblyInfoInputs.cache
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\String\Interpolaçãostrings\obj\Debug\net8.0\Interpolaçãostrings.AssemblyInfo.cs
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\String\Interpolaçãostrings\obj\Debug\net8.0\Interpolaçãostrings.csproj.CoreCompileInputs.cache
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\String\Interpolaçãostrings\bin\Debug\net8.0\Interpolaçãostrings.exe
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\String\Interpolaçãostrings\bin\Debug\net8.0\Interpolaçãostrings.deps.json
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\String\Interpolaçãostrings\bin\Debug\net8.0\Interpolaçãostrings.runtimeconfig.json
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\String\Interpolaçãostrings\bin\Debug\net8.0\Interpolaçãostrings.dll
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\String\Interpolaçãostrings\bin\Debug\net8.0\Interpolaçãostrings.pdb
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\String\Interpolaçãostrings\obj\Debug\net8.0\Interpolaçãostrings.dll
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\String\Interpolaçãostrings\obj\Debug\net8.0\refint\Interpolaçãostrings.dll
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\String\Interpolaçãostrings\obj\Debug\net8.0\Interpolaçãostrings.pdb
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\String\Interpolaçãostrings\obj\Debug\net8.0\Interpolaçãostrings.genruntimeconfig.cache
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\String\Interpolaçãostrings\obj\Debug\net8.0\ref\Interpolaçãostrings.dll

@@ -1,0 +1,14 @@
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Moedas\FormatandoMoedas\bin\Debug\net8.0\FormatandoMoedas.exe
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Moedas\FormatandoMoedas\bin\Debug\net8.0\FormatandoMoedas.deps.json
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Moedas\FormatandoMoedas\bin\Debug\net8.0\FormatandoMoedas.runtimeconfig.json
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Moedas\FormatandoMoedas\bin\Debug\net8.0\FormatandoMoedas.dll
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Moedas\FormatandoMoedas\bin\Debug\net8.0\FormatandoMoedas.pdb
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Moedas\FormatandoMoedas\obj\Debug\net8.0\FormatandoMoedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Moedas\FormatandoMoedas\obj\Debug\net8.0\FormatandoMoedas.AssemblyInfoInputs.cache
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Moedas\FormatandoMoedas\obj\Debug\net8.0\FormatandoMoedas.AssemblyInfo.cs
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Moedas\FormatandoMoedas\obj\Debug\net8.0\FormatandoMoedas.csproj.CoreCompileInputs.cache
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Moedas\FormatandoMoedas\obj\Debug\net8.0\FormatandoMoedas.dll
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Moedas\FormatandoMoedas\obj\Debug\net8.0\refint\FormatandoMoedas.dll
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Moedas\FormatandoMoedas\obj\Debug\net8.0\FormatandoMoedas.pdb
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Moedas\FormatandoMoedas\obj\Debug\net8.0\FormatandoMoedas.genruntimeconfig.cache
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Moedas\FormatandoMoedas\obj\Debug\net8.0\ref\FormatandoMoedas.dll

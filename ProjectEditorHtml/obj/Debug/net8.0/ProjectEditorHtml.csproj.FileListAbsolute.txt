@@ -1,0 +1,14 @@
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\ProjectEditorHtml\bin\Debug\net8.0\ProjectEditorHtml.exe
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\ProjectEditorHtml\bin\Debug\net8.0\ProjectEditorHtml.deps.json
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\ProjectEditorHtml\bin\Debug\net8.0\ProjectEditorHtml.runtimeconfig.json
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\ProjectEditorHtml\bin\Debug\net8.0\ProjectEditorHtml.dll
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\ProjectEditorHtml\bin\Debug\net8.0\ProjectEditorHtml.pdb
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\ProjectEditorHtml\obj\Debug\net8.0\ProjectEditorHtml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\ProjectEditorHtml\obj\Debug\net8.0\ProjectEditorHtml.AssemblyInfoInputs.cache
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\ProjectEditorHtml\obj\Debug\net8.0\ProjectEditorHtml.AssemblyInfo.cs
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\ProjectEditorHtml\obj\Debug\net8.0\ProjectEditorHtml.csproj.CoreCompileInputs.cache
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\ProjectEditorHtml\obj\Debug\net8.0\ProjectEditorHtml.dll
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\ProjectEditorHtml\obj\Debug\net8.0\refint\ProjectEditorHtml.dll
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\ProjectEditorHtml\obj\Debug\net8.0\ProjectEditorHtml.pdb
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\ProjectEditorHtml\obj\Debug\net8.0\ProjectEditorHtml.genruntimeconfig.cache
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\ProjectEditorHtml\obj\Debug\net8.0\ref\ProjectEditorHtml.dll

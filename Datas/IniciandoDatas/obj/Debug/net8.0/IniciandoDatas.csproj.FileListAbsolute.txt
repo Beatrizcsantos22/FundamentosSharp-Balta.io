@@ -1,0 +1,14 @@
+C:\Users\beatr\OneDrive\Projetos C#\IniciandoDatas\bin\Debug\net8.0\IniciandoDatas.exe
+C:\Users\beatr\OneDrive\Projetos C#\IniciandoDatas\bin\Debug\net8.0\IniciandoDatas.deps.json
+C:\Users\beatr\OneDrive\Projetos C#\IniciandoDatas\bin\Debug\net8.0\IniciandoDatas.runtimeconfig.json
+C:\Users\beatr\OneDrive\Projetos C#\IniciandoDatas\bin\Debug\net8.0\IniciandoDatas.dll
+C:\Users\beatr\OneDrive\Projetos C#\IniciandoDatas\bin\Debug\net8.0\IniciandoDatas.pdb
+C:\Users\beatr\OneDrive\Projetos C#\IniciandoDatas\obj\Debug\net8.0\IniciandoDatas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beatr\OneDrive\Projetos C#\IniciandoDatas\obj\Debug\net8.0\IniciandoDatas.AssemblyInfoInputs.cache
+C:\Users\beatr\OneDrive\Projetos C#\IniciandoDatas\obj\Debug\net8.0\IniciandoDatas.AssemblyInfo.cs
+C:\Users\beatr\OneDrive\Projetos C#\IniciandoDatas\obj\Debug\net8.0\IniciandoDatas.csproj.CoreCompileInputs.cache
+C:\Users\beatr\OneDrive\Projetos C#\IniciandoDatas\obj\Debug\net8.0\IniciandoDatas.dll
+C:\Users\beatr\OneDrive\Projetos C#\IniciandoDatas\obj\Debug\net8.0\refint\IniciandoDatas.dll
+C:\Users\beatr\OneDrive\Projetos C#\IniciandoDatas\obj\Debug\net8.0\IniciandoDatas.pdb
+C:\Users\beatr\OneDrive\Projetos C#\IniciandoDatas\obj\Debug\net8.0\IniciandoDatas.genruntimeconfig.cache
+C:\Users\beatr\OneDrive\Projetos C#\IniciandoDatas\obj\Debug\net8.0\ref\IniciandoDatas.dll

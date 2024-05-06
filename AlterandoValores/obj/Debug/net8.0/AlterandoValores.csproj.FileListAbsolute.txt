@@ -1,0 +1,14 @@
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\AlterandoValores\bin\Debug\net8.0\AlterandoValores.exe
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\AlterandoValores\bin\Debug\net8.0\AlterandoValores.deps.json
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\AlterandoValores\bin\Debug\net8.0\AlterandoValores.runtimeconfig.json
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\AlterandoValores\bin\Debug\net8.0\AlterandoValores.dll
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\AlterandoValores\bin\Debug\net8.0\AlterandoValores.pdb
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\AlterandoValores\obj\Debug\net8.0\AlterandoValores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\AlterandoValores\obj\Debug\net8.0\AlterandoValores.AssemblyInfoInputs.cache
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\AlterandoValores\obj\Debug\net8.0\AlterandoValores.AssemblyInfo.cs
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\AlterandoValores\obj\Debug\net8.0\AlterandoValores.csproj.CoreCompileInputs.cache
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\AlterandoValores\obj\Debug\net8.0\AlterandoValores.dll
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\AlterandoValores\obj\Debug\net8.0\refint\AlterandoValores.dll
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\AlterandoValores\obj\Debug\net8.0\AlterandoValores.pdb
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\AlterandoValores\obj\Debug\net8.0\AlterandoValores.genruntimeconfig.cache
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\AlterandoValores\obj\Debug\net8.0\ref\AlterandoValores.dll

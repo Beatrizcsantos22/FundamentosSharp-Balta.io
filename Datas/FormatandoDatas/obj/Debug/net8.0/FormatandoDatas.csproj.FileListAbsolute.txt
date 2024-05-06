@@ -1,0 +1,14 @@
+C:\Users\beatr\OneDrive\Projetos C#\FormatandoDatas\bin\Debug\net8.0\FormatandoDatas.exe
+C:\Users\beatr\OneDrive\Projetos C#\FormatandoDatas\bin\Debug\net8.0\FormatandoDatas.deps.json
+C:\Users\beatr\OneDrive\Projetos C#\FormatandoDatas\bin\Debug\net8.0\FormatandoDatas.runtimeconfig.json
+C:\Users\beatr\OneDrive\Projetos C#\FormatandoDatas\bin\Debug\net8.0\FormatandoDatas.dll
+C:\Users\beatr\OneDrive\Projetos C#\FormatandoDatas\bin\Debug\net8.0\FormatandoDatas.pdb
+C:\Users\beatr\OneDrive\Projetos C#\FormatandoDatas\obj\Debug\net8.0\FormatandoDatas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beatr\OneDrive\Projetos C#\FormatandoDatas\obj\Debug\net8.0\FormatandoDatas.AssemblyInfoInputs.cache
+C:\Users\beatr\OneDrive\Projetos C#\FormatandoDatas\obj\Debug\net8.0\FormatandoDatas.AssemblyInfo.cs
+C:\Users\beatr\OneDrive\Projetos C#\FormatandoDatas\obj\Debug\net8.0\FormatandoDatas.csproj.CoreCompileInputs.cache
+C:\Users\beatr\OneDrive\Projetos C#\FormatandoDatas\obj\Debug\net8.0\FormatandoDatas.dll
+C:\Users\beatr\OneDrive\Projetos C#\FormatandoDatas\obj\Debug\net8.0\refint\FormatandoDatas.dll
+C:\Users\beatr\OneDrive\Projetos C#\FormatandoDatas\obj\Debug\net8.0\FormatandoDatas.pdb
+C:\Users\beatr\OneDrive\Projetos C#\FormatandoDatas\obj\Debug\net8.0\FormatandoDatas.genruntimeconfig.cache
+C:\Users\beatr\OneDrive\Projetos C#\FormatandoDatas\obj\Debug\net8.0\ref\FormatandoDatas.dll

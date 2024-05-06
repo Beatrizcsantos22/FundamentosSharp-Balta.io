@@ -1,0 +1,14 @@
+C:\Users\beatr\OneDrive\Projetos C#\PadraoFormatacao\bin\Debug\net8.0\PadraoFormatacao.exe
+C:\Users\beatr\OneDrive\Projetos C#\PadraoFormatacao\bin\Debug\net8.0\PadraoFormatacao.deps.json
+C:\Users\beatr\OneDrive\Projetos C#\PadraoFormatacao\bin\Debug\net8.0\PadraoFormatacao.runtimeconfig.json
+C:\Users\beatr\OneDrive\Projetos C#\PadraoFormatacao\bin\Debug\net8.0\PadraoFormatacao.dll
+C:\Users\beatr\OneDrive\Projetos C#\PadraoFormatacao\bin\Debug\net8.0\PadraoFormatacao.pdb
+C:\Users\beatr\OneDrive\Projetos C#\PadraoFormatacao\obj\Debug\net8.0\PadraoFormatacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beatr\OneDrive\Projetos C#\PadraoFormatacao\obj\Debug\net8.0\PadraoFormatacao.AssemblyInfoInputs.cache
+C:\Users\beatr\OneDrive\Projetos C#\PadraoFormatacao\obj\Debug\net8.0\PadraoFormatacao.AssemblyInfo.cs
+C:\Users\beatr\OneDrive\Projetos C#\PadraoFormatacao\obj\Debug\net8.0\PadraoFormatacao.csproj.CoreCompileInputs.cache
+C:\Users\beatr\OneDrive\Projetos C#\PadraoFormatacao\obj\Debug\net8.0\PadraoFormatacao.dll
+C:\Users\beatr\OneDrive\Projetos C#\PadraoFormatacao\obj\Debug\net8.0\refint\PadraoFormatacao.dll
+C:\Users\beatr\OneDrive\Projetos C#\PadraoFormatacao\obj\Debug\net8.0\PadraoFormatacao.pdb
+C:\Users\beatr\OneDrive\Projetos C#\PadraoFormatacao\obj\Debug\net8.0\PadraoFormatacao.genruntimeconfig.cache
+C:\Users\beatr\OneDrive\Projetos C#\PadraoFormatacao\obj\Debug\net8.0\ref\PadraoFormatacao.dll

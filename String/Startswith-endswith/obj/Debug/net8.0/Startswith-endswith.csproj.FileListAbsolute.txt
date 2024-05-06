@@ -1,0 +1,14 @@
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Startswith-endswith\bin\Debug\net8.0\Startswith-endswith.exe
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Startswith-endswith\bin\Debug\net8.0\Startswith-endswith.deps.json
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Startswith-endswith\bin\Debug\net8.0\Startswith-endswith.runtimeconfig.json
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Startswith-endswith\bin\Debug\net8.0\Startswith-endswith.dll
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Startswith-endswith\bin\Debug\net8.0\Startswith-endswith.pdb
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Startswith-endswith\obj\Debug\net8.0\Startswith-endswith.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Startswith-endswith\obj\Debug\net8.0\Startswith-endswith.AssemblyInfoInputs.cache
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Startswith-endswith\obj\Debug\net8.0\Startswith-endswith.AssemblyInfo.cs
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Startswith-endswith\obj\Debug\net8.0\Startswith-endswith.csproj.CoreCompileInputs.cache
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Startswith-endswith\obj\Debug\net8.0\Startswith-endswith.dll
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Startswith-endswith\obj\Debug\net8.0\refint\Startswith-endswith.dll
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Startswith-endswith\obj\Debug\net8.0\Startswith-endswith.pdb
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Startswith-endswith\obj\Debug\net8.0\Startswith-endswith.genruntimeconfig.cache
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Startswith-endswith\obj\Debug\net8.0\ref\Startswith-endswith.dll

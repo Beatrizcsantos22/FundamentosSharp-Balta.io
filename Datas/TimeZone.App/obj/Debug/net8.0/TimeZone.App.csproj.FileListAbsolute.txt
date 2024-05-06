@@ -1,0 +1,14 @@
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Datas\TimeZone.App\bin\Debug\net8.0\TimeZone.App.exe
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Datas\TimeZone.App\bin\Debug\net8.0\TimeZone.App.deps.json
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Datas\TimeZone.App\bin\Debug\net8.0\TimeZone.App.runtimeconfig.json
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Datas\TimeZone.App\bin\Debug\net8.0\TimeZone.App.dll
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Datas\TimeZone.App\bin\Debug\net8.0\TimeZone.App.pdb
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Datas\TimeZone.App\obj\Debug\net8.0\TimeZone.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Datas\TimeZone.App\obj\Debug\net8.0\TimeZone.App.AssemblyInfoInputs.cache
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Datas\TimeZone.App\obj\Debug\net8.0\TimeZone.App.AssemblyInfo.cs
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Datas\TimeZone.App\obj\Debug\net8.0\TimeZone.App.csproj.CoreCompileInputs.cache
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Datas\TimeZone.App\obj\Debug\net8.0\TimeZone.App.dll
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Datas\TimeZone.App\obj\Debug\net8.0\refint\TimeZone.App.dll
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Datas\TimeZone.App\obj\Debug\net8.0\TimeZone.App.pdb
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Datas\TimeZone.App\obj\Debug\net8.0\TimeZone.App.genruntimeconfig.cache
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Datas\TimeZone.App\obj\Debug\net8.0\ref\TimeZone.App.dll

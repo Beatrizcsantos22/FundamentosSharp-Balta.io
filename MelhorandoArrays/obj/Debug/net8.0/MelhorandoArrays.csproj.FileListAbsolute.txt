@@ -1,0 +1,14 @@
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\MelhorandoArrays\bin\Debug\net8.0\MelhorandoArrays.exe
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\MelhorandoArrays\bin\Debug\net8.0\MelhorandoArrays.deps.json
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\MelhorandoArrays\bin\Debug\net8.0\MelhorandoArrays.runtimeconfig.json
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\MelhorandoArrays\bin\Debug\net8.0\MelhorandoArrays.dll
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\MelhorandoArrays\bin\Debug\net8.0\MelhorandoArrays.pdb
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\MelhorandoArrays\obj\Debug\net8.0\MelhorandoArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\MelhorandoArrays\obj\Debug\net8.0\MelhorandoArrays.AssemblyInfoInputs.cache
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\MelhorandoArrays\obj\Debug\net8.0\MelhorandoArrays.AssemblyInfo.cs
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\MelhorandoArrays\obj\Debug\net8.0\MelhorandoArrays.csproj.CoreCompileInputs.cache
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\MelhorandoArrays\obj\Debug\net8.0\MelhorandoArrays.dll
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\MelhorandoArrays\obj\Debug\net8.0\refint\MelhorandoArrays.dll
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\MelhorandoArrays\obj\Debug\net8.0\MelhorandoArrays.pdb
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\MelhorandoArrays\obj\Debug\net8.0\MelhorandoArrays.genruntimeconfig.cache
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\MelhorandoArrays\obj\Debug\net8.0\ref\MelhorandoArrays.dll

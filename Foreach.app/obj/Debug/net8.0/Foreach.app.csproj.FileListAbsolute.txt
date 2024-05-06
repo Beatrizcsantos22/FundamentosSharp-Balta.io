@@ -1,0 +1,14 @@
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Foreach.app\bin\Debug\net8.0\Foreach.app.exe
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Foreach.app\bin\Debug\net8.0\Foreach.app.deps.json
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Foreach.app\bin\Debug\net8.0\Foreach.app.runtimeconfig.json
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Foreach.app\bin\Debug\net8.0\Foreach.app.dll
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Foreach.app\bin\Debug\net8.0\Foreach.app.pdb
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Foreach.app\obj\Debug\net8.0\Foreach.app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Foreach.app\obj\Debug\net8.0\Foreach.app.AssemblyInfoInputs.cache
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Foreach.app\obj\Debug\net8.0\Foreach.app.AssemblyInfo.cs
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Foreach.app\obj\Debug\net8.0\Foreach.app.csproj.CoreCompileInputs.cache
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Foreach.app\obj\Debug\net8.0\Foreach.app.dll
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Foreach.app\obj\Debug\net8.0\refint\Foreach.app.dll
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Foreach.app\obj\Debug\net8.0\Foreach.app.pdb
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Foreach.app\obj\Debug\net8.0\Foreach.app.genruntimeconfig.cache
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Foreach.app\obj\Debug\net8.0\ref\Foreach.app.dll

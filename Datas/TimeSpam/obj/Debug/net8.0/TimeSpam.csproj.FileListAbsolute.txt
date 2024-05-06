@@ -1,0 +1,14 @@
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Datas\TimeSpam\bin\Debug\net8.0\TimeSpam.exe
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Datas\TimeSpam\bin\Debug\net8.0\TimeSpam.deps.json
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Datas\TimeSpam\bin\Debug\net8.0\TimeSpam.runtimeconfig.json
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Datas\TimeSpam\bin\Debug\net8.0\TimeSpam.dll
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Datas\TimeSpam\bin\Debug\net8.0\TimeSpam.pdb
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Datas\TimeSpam\obj\Debug\net8.0\TimeSpam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Datas\TimeSpam\obj\Debug\net8.0\TimeSpam.AssemblyInfoInputs.cache
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Datas\TimeSpam\obj\Debug\net8.0\TimeSpam.AssemblyInfo.cs
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Datas\TimeSpam\obj\Debug\net8.0\TimeSpam.csproj.CoreCompileInputs.cache
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Datas\TimeSpam\obj\Debug\net8.0\TimeSpam.dll
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Datas\TimeSpam\obj\Debug\net8.0\refint\TimeSpam.dll
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Datas\TimeSpam\obj\Debug\net8.0\TimeSpam.pdb
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Datas\TimeSpam\obj\Debug\net8.0\TimeSpam.genruntimeconfig.cache
+C:\Users\beatr\OneDrive\Projetos C#\AulasBalta\Datas\TimeSpam\obj\Debug\net8.0\ref\TimeSpam.dll
