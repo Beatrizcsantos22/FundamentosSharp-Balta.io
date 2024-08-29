@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\beatr\\OneDrive\\Projetos C#\\AulasBalta\\AdicionandoValores\\AdicionandoValores.csproj",
+      "projectUniqueName": "C:\\Users\\beatr\\OneDrive\\Projetos C#\\Fundamentos-C#-Balta.io\\AulasBalta\\AdicionandoValores\\AdicionandoValores.csproj",
       "projectName": "AdicionandoValores",
-      "projectPath": "C:\\Users\\beatr\\OneDrive\\Projetos C#\\AulasBalta\\AdicionandoValores\\AdicionandoValores.csproj",
+      "projectPath": "C:\\Users\\beatr\\OneDrive\\Projetos C#\\Fundamentos-C#-Balta.io\\AulasBalta\\AdicionandoValores\\AdicionandoValores.csproj",
       "packagesPath": "C:\\Users\\beatr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\beatr\\OneDrive\\Projetos C#\\AulasBalta\\AdicionandoValores\\obj\\",
+      "outputPath": "C:\\Users\\beatr\\OneDrive\\Projetos C#\\Fundamentos-C#-Balta.io\\AulasBalta\\AdicionandoValores\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\beatr\\AppData\\Roaming\\NuGet\\NuGet.Config",
