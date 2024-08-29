@@ -1,0 +1,14 @@
+C:\Users\beatr\OneDrive\CronometroProj02\bin\Debug\net8.0\CronometroProj02.exe
+C:\Users\beatr\OneDrive\CronometroProj02\bin\Debug\net8.0\CronometroProj02.deps.json
+C:\Users\beatr\OneDrive\CronometroProj02\bin\Debug\net8.0\CronometroProj02.runtimeconfig.json
+C:\Users\beatr\OneDrive\CronometroProj02\bin\Debug\net8.0\CronometroProj02.dll
+C:\Users\beatr\OneDrive\CronometroProj02\bin\Debug\net8.0\CronometroProj02.pdb
+C:\Users\beatr\OneDrive\CronometroProj02\obj\Debug\net8.0\CronometroProj02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beatr\OneDrive\CronometroProj02\obj\Debug\net8.0\CronometroProj02.AssemblyInfoInputs.cache
+C:\Users\beatr\OneDrive\CronometroProj02\obj\Debug\net8.0\CronometroProj02.AssemblyInfo.cs
+C:\Users\beatr\OneDrive\CronometroProj02\obj\Debug\net8.0\CronometroProj02.csproj.CoreCompileInputs.cache
+C:\Users\beatr\OneDrive\CronometroProj02\obj\Debug\net8.0\CronometroProj02.dll
+C:\Users\beatr\OneDrive\CronometroProj02\obj\Debug\net8.0\refint\CronometroProj02.dll
+C:\Users\beatr\OneDrive\CronometroProj02\obj\Debug\net8.0\CronometroProj02.pdb
+C:\Users\beatr\OneDrive\CronometroProj02\obj\Debug\net8.0\CronometroProj02.genruntimeconfig.cache
+C:\Users\beatr\OneDrive\CronometroProj02\obj\Debug\net8.0\ref\CronometroProj02.dll
